@@ -1,2 +1,3 @@
 name: 'Pull'
-runs: git pull
+runs: 
+  main: git pull
